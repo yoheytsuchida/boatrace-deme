@@ -1,0 +1,5 @@
+{
+  "name": "BoatRace Result Tracker",
+  "description": "ボートレースの出目（三連単）を集計・検索するアプリ。公式サイトから当日の結果を取得し、特定の出目の出現回数を分析できます。",
+  "requestFramePermissions": []
+}
